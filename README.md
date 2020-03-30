@@ -5,6 +5,7 @@ Class Hackathon Edabit Challenge
 https://edabit.com/challenge/tmnCStcrkdWbreKP5
 
 Create the function that takes an array with objects and returns the sum of people's budgets.
+
 Examples
 
 getBudgets([
